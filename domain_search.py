@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import whois
 
 data = raw_input("Enter a domain: ")
